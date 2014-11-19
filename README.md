@@ -20,3 +20,7 @@ java -jar target/spring-boot-web-mvn.jar
 Try it
 --------------
 - Now open your browser: http://localhost:8080/
+
+License
+--------------
+MIT
