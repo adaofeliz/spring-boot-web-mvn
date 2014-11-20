@@ -14,6 +14,6 @@ public class BaseController {
     @ResponseBody
     @RequestMapping(value = "/", method = RequestMethod.GET)
     public String helloWorld() {
-        return "Hello World: Spring MVC without XML configuration";
+        return "Hello World: Spring-boot Sample Web Application using Maven";
     }
 }
